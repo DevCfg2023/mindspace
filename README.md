@@ -70,3 +70,12 @@ Here’s the architecture with Python components at the heart 👇
   - “Detox Mode” that auto-hides social apps during peak stress hours
   - AI-generated meditations using GenAI voice synthesis
   - Gamify wellness: “Complete 3 mindfulness missions this week to unlock a theme”
+
+
+## Sample screens with results for reference
+Home
+ ![image](https://github.com/user-attachments/assets/64956e4c-47b0-4a82-94d1-dc7bf354d702)
+ After choosing hour of spend using mobile
+ ![image](https://github.com/user-attachments/assets/866ad42a-47f5-4f1e-9219-0f04c9e778fa)
+
+
