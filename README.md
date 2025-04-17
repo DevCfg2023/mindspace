@@ -58,6 +58,7 @@ Here’s the architecture with Python components at the heart 👇
 - Analytics & Logs	SQLite (local) + Firebase Analytics
 - Mobile Integration	Screen Time APIs (Android/iOS)
 - Authentication	Firebase Auth (with Teen/Parent roles)
+- **Currently using only Azure Open AI Services - gpt-4o**
 
 ## 🧠 PYTHON MODULES (Core Functions)
 
