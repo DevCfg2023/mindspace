@@ -58,7 +58,7 @@ Here’s the architecture with Python components at the heart 👇
 - Analytics & Logs	SQLite (local) + Firebase Analytics
 - Mobile Integration	Screen Time APIs (Android/iOS)
 - Authentication	Firebase Auth (with Teen/Parent roles)
-- **Currently using only Azure Open AI Services - gpt-4o**
+- **Currently using only Azure Open AI Services - gpt-4o ,streamlit and python**
 
 ## 🧠 PYTHON MODULES (Core Functions)
 
@@ -78,5 +78,16 @@ Home
  ![image](https://github.com/user-attachments/assets/64956e4c-47b0-4a82-94d1-dc7bf354d702)
  After choosing hour of spend using mobile
  ![image](https://github.com/user-attachments/assets/866ad42a-47f5-4f1e-9219-0f04c9e778fa)
+ Deployed in streamlit
+ ![image](https://github.com/user-attachments/assets/c2ac2ade-64eb-41cf-89e2-4f633c54d9b9)
+ Home
+ ![image](https://github.com/user-attachments/assets/50acd1c1-e414-435b-951c-f7f49ca86653)
+ After choosing hour of spend using mobile
+ ![image](https://github.com/user-attachments/assets/5be99b24-5ca0-4130-8be2-58c43a3d0023)
+
+
+
+ 
+
 
 
